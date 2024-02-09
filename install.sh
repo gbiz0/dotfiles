@@ -39,9 +39,7 @@ sudo apt-get install -y \
   python3-neovim
 
 #tools 
-sudo apt install obs-studio -y \
- discord \
-
+sudo apt install obs-studio 
 #nvchad
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
 #sudo apt-get install gcc-mingw-w64
