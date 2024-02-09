@@ -1,0 +1,54 @@
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(ansi-color-names-vector
+   ["#f7f3ee" "#955f5f" "#81895d" "#957f5f" "#7382a0" "#9c739c" "#5f8c7d" "#605a52"])
+ '(custom-safe-themes
+   '("e3daa8f18440301f3e54f2093fe15f4fe951986a8628e98dcd781efbec7a46f2" "a9eeab09d61fef94084a95f82557e147d9630fbbb82a837f971f83e66e21e5ad" "c1d5759fcb18b20fd95357dcd63ff90780283b14023422765d531330a3d3cec2" "aec7b55f2a13307a55517fdf08438863d694550565dee23181d2ebd973ebd6b8" "8c7e832be864674c220f9a9361c851917a93f921fedb7717b1b5ece47690c098" default))
+ '(exwm-floating-border-color "#c6bdb2")
+ '(fci-rule-color "#605a52")
+ '(highlight-tail-colors ((("#ebe8df") . 0) (("#e7e8e2") . 20)))
+ '(ispell-dictionary nil)
+ '(jdee-db-active-breakpoint-face-colors (cons "#f1ece4" "#7382a0"))
+ '(jdee-db-requested-breakpoint-face-colors (cons "#f1ece4" "#81895d"))
+ '(jdee-db-spec-breakpoint-face-colors (cons "#f1ece4" "#b9a992"))
+ '(objed-cursor-color "#955f5f")
+ '(package-archives
+   '(("gnu" . "https://elpa.gnu.org/packages/")
+     ("nongnu" . "https://elpa.nongnu.org/nongnu/")
+     ("melpa" . "https://melpa.org/packages/")))
+ '(package-selected-packages
+   '(doom-themes color-theme-modern indent-guide focus solaire-mode dimmer editorconfig htmlize ox-reveal org-bullets purescript-mode zig-mode elcord go-dlv dap-mode go-mode slime treemacs random-splash-image flycheck projectile minions swiper avy diff-hl magit cider lsp-mode corfu consult vertico all-the-icons))
+ '(pdf-view-midnight-colors (cons "#605a52" "#f7f3ee"))
+ '(rustic-ansi-faces
+   ["#f7f3ee" "#955f5f" "#81895d" "#957f5f" "#7382a0" "#9c739c" "#5f8c7d" "#605a52"])
+ '(vc-annotate-background "#f7f3ee")
+ '(vc-annotate-color-map
+   (list
+    (cons 20 "#81895d")
+    (cons 40 "#87855d")
+    (cons 60 "#8e825e")
+    (cons 80 "#957f5f")
+    (cons 100 "#957f5f")
+    (cons 120 "#957f5f")
+    (cons 140 "#957f5f")
+    (cons 160 "#977b73")
+    (cons 180 "#997787")
+    (cons 200 "#9c739c")
+    (cons 220 "#996c87")
+    (cons 240 "#976573")
+    (cons 260 "#955f5f")
+    (cons 280 "#9e716b")
+    (cons 300 "#a78378")
+    (cons 320 "#b09685")
+    (cons 340 "#605a52")
+    (cons 360 "#605a52")))
+ '(vc-annotate-very-old-color nil))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )

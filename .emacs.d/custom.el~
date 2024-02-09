@@ -1,0 +1,17 @@
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-archives
+   '(("gnu" . "https://elpa.gnu.org/packages/")
+     ("nongnu" . "https://elpa.nongnu.org/nongnu/")
+     ("melpa" . "https://melpa.org/packages/")))
+ '(package-selected-packages
+   '(indent-guide focus solaire-mode dimmer editorconfig htmlize ox-reveal org-bullets purescript-mode zig-mode elcord go-dlv dap-mode go-mode slime treemacs random-splash-image flycheck projectile minions swiper avy diff-hl magit cider lsp-mode corfu consult vertico all-the-icons)))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
