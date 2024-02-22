@@ -2,6 +2,7 @@
 vim.cmd("set expandtab")
 vim.cmd("set number")
 vim.cmd("set relativenumber")
+vim.cmd("set colorcolumn=80")
 
 -- spaces for tabs
 vim.cmd("set tabstop=2")
