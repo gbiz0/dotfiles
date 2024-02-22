@@ -15,7 +15,10 @@ require("nvim-treesitter.configs").setup({
     "typescript",
     "zig",
     "java",
-    "php"
+    "php",
+    "html",
+    "css",
+    "cpp"
   },
   highlight = { enable = true },
   indent = { enable = true },
